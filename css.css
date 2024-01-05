@@ -1,0 +1,10 @@
+.container{
+    border:1px inset grey;
+    padding: 34px;
+    box-shadow: 25px 25px 12px grey ;
+    border-radius:12px 23px 23px 12px;
+    margin-top:11px;
+};
+h2{
+    color:white;
+}
